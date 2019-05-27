@@ -24,4 +24,4 @@ Step5:
 Type python manage.py runserver and hit enter
 
 Step6: 
-Go to your browser and type 127.0.0.1 and hit enter
+Go to your browser and type 127.0.0.1:8000 and hit enter
